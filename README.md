@@ -48,4 +48,10 @@ The analyses were run in Python using a standard single-cell / spatial transcrip
 - `statsmodels` (optional, for some statistical summaries)
 - `graphviz` / `python-igraph` (optional, depending on plots)
 
+## Repository Structure
+```
+
+├── Code : Control_HFD_vs_NC.ipynb and AP_HFD_vs_NC.ipynb 
+├── Data : Data used for modeling
+└── README.md : Project information and repository structure
 
